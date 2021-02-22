@@ -1,2 +1,3 @@
 # desafiojs
-Created with CodeSandbox
+
+Desafio criado na página do Instagram @papodedev, para praticar Javascrip.
